@@ -1,2 +1,2 @@
-# mx
-Grav Theme Development
+# MX Theme
+Grav Theme and Content Styles Development
